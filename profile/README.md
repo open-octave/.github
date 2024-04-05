@@ -8,7 +8,3 @@ This organization is a collection of projects that I have worked on, or am worki
 - [LinkedIn](https://www.linkedin.com/in/matthewendicott/)
 - [Personal GitHub](https://github.com/PCDSandwichMan)
 - [Personal Website](https://matthewendicott.com)
-
-## 🪪 License
-
-[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0)
